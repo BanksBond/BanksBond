@@ -40,8 +40,8 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=banksbond&show_icons=true&locale=en" alt="banksbond" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=banksbond&" alt="banksbond" /></p>
+<p>&nbsp;<img align="left" width=40% src="https://github-readme-stats.vercel.app/api?username=banksbond&show_icons=true&locale=en" alt="banksbond" />
+<img align="right" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=banksbond&" alt="banksbond" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
