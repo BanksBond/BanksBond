@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banksbond&label=Profile%20views&color=0e75b6&style=flat" alt="banksbond" /> </p>
 
-- 🔭 I’m currently working on **a Group Chat Application using Flutter & Firebase.**
+- 🔭 I’m currently working on **AI Interview Mocker.**
 
-- 🌱 I’m currently learning **Flutter and Full-Stack Web-Development**
+- 🌱 I’m currently learning **Full-Stack Web-Development**
 
 - 👯 I’m looking to collaborate on **any Web or Android application**
 
