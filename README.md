@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Bakhtyar%20Ansari&fontSize=42&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Android&descAlignY=58&descSize=16" alt="Header" />
+  <a href="https://bakhtyaransari.com"><img src="./assets/header.svg" width="100%" alt="Bakhtyar Ansari — Software Developer" /></a>
 </p>
 
 <p align="center">
@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://bakhtyaransari.com"><img src="https://img.shields.io/badge/Website-bakhtyaransari.com-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/bakhtyar-ansari-ba6972222"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bakhtyaransari1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/bakhtyaransari1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
@@ -32,6 +33,7 @@
 - 🌱 Learning **full-stack development** (MERN, REST APIs, deployment)
 - 👯 Open to collaborating on **web or Android projects**
 - 💬 Ask me about **Android, Java/Kotlin, or anything web** (or what to ask 😄)
+- 🌐 Portfolio: **[bakhtyaransari.com](https://bakhtyaransari.com)**
 - 📫 Reach me at **[bakhtyaransari1@gmail.com](mailto:bakhtyaransari1@gmail.com)**
 
 </td>
@@ -89,5 +91,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" alt="Footer" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
 </p>
