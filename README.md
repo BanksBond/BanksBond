@@ -38,7 +38,7 @@
 
 </td>
 <td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Technologist.png" width="200" alt="Coding" />
+  <img src="./assets/coding.gif" width="200" alt="Coding" />
 </td>
 </tr>
 </table>
