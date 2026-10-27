@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36BCF7">
+        <animate attributeName="stop-color" values="#36BCF7;#7F5AF0;#2CB1BC;#36BCF7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7F5AF0">
+        <animate attributeName="stop-color" values="#7F5AF0;#2CB1BC;#36BCF7;#7F5AF0" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <path fill="url(#fg)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0 40 Q225 10 450 40 T900 40 V110 H0 Z;
+              M0 40 Q225 70 450 40 T900 40 V110 H0 Z;
+              M0 40 Q225 10 450 40 T900 40 V110 H0 Z"/>
+  </path>
+  <path fill="url(#fg)" fill-opacity="0.5">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0 30 Q225 55 450 30 T900 30 V110 H0 Z;
+              M0 30 Q225 5 450 30 T900 30 V110 H0 Z;
+              M0 30 Q225 55 450 30 T900 30 V110 H0 Z"/>
+  </path>
+</svg>
