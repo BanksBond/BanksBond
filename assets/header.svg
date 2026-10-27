@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7F5AF0">
+        <animate attributeName="stop-color" values="#7F5AF0;#2CB1BC;#36BCF7;#7F5AF0" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#36BCF7">
+        <animate attributeName="stop-color" values="#36BCF7;#7F5AF0;#2CB1BC;#36BCF7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 700 44px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; opacity: 0; animation: rise 1.2s ease-out 0.2s forwards; }
+    .sub { font: 500 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; opacity: 0; animation: rise 1.2s ease-out 0.8s forwards; }
+    .dot { fill: #ffffff; animation: twinkle 3s ease-in-out infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes twinkle { 0%, 100% { opacity: 0.15; } 50% { opacity: 0.9; } }
+  </style>
+
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Moving waves at the bottom -->
+  <path fill="#ffffff" fill-opacity="0.18">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0 165 Q225 135 450 165 T900 165 V200 H0 Z;
+              M0 165 Q225 195 450 165 T900 165 V200 H0 Z;
+              M0 165 Q225 135 450 165 T900 165 V200 H0 Z"/>
+  </path>
+  <path fill="#ffffff" fill-opacity="0.12">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 178 Q225 198 450 178 T900 178 V200 H0 Z;
+              M0 178 Q225 158 450 178 T900 178 V200 H0 Z;
+              M0 178 Q225 198 450 178 T900 178 V200 H0 Z"/>
+  </path>
+
+  <!-- Twinkling stars -->
+  <circle class="dot" cx="80" cy="40" r="2.5" style="animation-delay:0s"/>
+  <circle class="dot" cx="180" cy="110" r="2" style="animation-delay:1s"/>
+  <circle class="dot" cx="760" cy="50" r="2.5" style="animation-delay:0.5s"/>
+  <circle class="dot" cx="830" cy="120" r="2" style="animation-delay:1.8s"/>
+  <circle class="dot" cx="640" cy="28" r="1.8" style="animation-delay:2.4s"/>
+  <circle class="dot" cx="260" cy="30" r="1.8" style="animation-delay:1.4s"/>
+
+  <text class="title" x="450" y="92" text-anchor="middle">Bakhtyar Ansari</text>
+  <text class="sub" x="450" y="128" text-anchor="middle">Software Developer · Full-Stack &amp; Android</text>
+</svg>
