@@ -1,47 +1,93 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Bakhtyar%20Ansari&fontSize=42&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Android&descAlignY=58&descSize=16" alt="Header" />
 </p>
-<h1 align="center"><img width=3% src="https://github.githubassets.com/images/mona-loading-dark.gif">  I'm Bakhtyar Ansari <img width=3% src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
-<h3 align="center">A enthusiastic Software Developer Engineer 🧑‍💻</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=banksbond&label=Profile%20views&color=0e75b6&style=flat" alt="banksbond" /> </p>
-
-- 🔭 I’m currently working on **AI Interview Mocker.**
-
-- 🌱 I’m currently learning **Full-Stack Web-Development**
-
-- 👯 I’m looking to collaborate on **any Web or Android application**
-
-- 💬 Ask me about **what to ask😂**
-
-- 📫 How to reach me, mail me at **bakhtyaransari1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--7JJaL1uP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/093b967de4114d379d5860ff0c335c2a/tenor.gif%3Fitemid%3D7506285" alt="dancingGithub">
-
-<p align="left">
-<a href="https://linkedin.com/in/bakhtyar-ansari-ba6972222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bakhtyar-ansari-ba6972222" height="30" width="40" />@BanksBond</a><br><br>
-<a href="https://instagram.com/bakhtyaransari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakhtyaransari" height="30" width="40" />@BanksBond</a><br><br>
-<a href="https://www.hackerrank.com/bakhtyaransari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bakhtyaransari1" height="30" width="40" />@BanksBond</a><br><br>
-<a href="https://www.leetcode.com/bakhtyaransari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bakhtyaransari1" height="30" width="40" />@BanksBond</a><br><br>
-<a href="https://auth.geeksforgeeks.org/user/bakhtyaransari1/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bakhtyaransari1/profile" height="30" width="40" />@BanksBond</a><br><br>
-</p>
-
-<p><img align="right" width=35% src="https://github-readme-stats.vercel.app/api/top-langs?username=banksbond&show_icons=true&locale=en&layout=compact" alt="banksbond" /></p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><br><br> 
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p><br>
-
-
-
-<p>&nbsp;<img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=banksbond&show_icons=true&locale=en" alt="banksbond" /><img align="right" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=banksbond&" alt="banksbond" /></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Bakhtyar+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%8C%90;Android+App+Developer+%F0%9F%93%B1;Building+AI+Interview+Mocker+%F0%9F%A4%96;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/bakhtyar-ansari-ba6972222"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bakhtyaransari1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/bakhtyaransari1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/bakhtyaransari1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/bakhtyaransari1/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=banksbond&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> About Me
+
+<table>
+<tr>
+<td width="60%">
+
+- 🔭 Currently building **[AI Interview Mocker](https://github.com/banksbond/REPO_NAME)**, mock interviews with AI-generated questions and feedback
+- 🌱 Learning **full-stack development** (MERN, REST APIs, deployment)
+- 👯 Open to collaborating on **web or Android projects**
+- 💬 Ask me about **Android, Java/Kotlin, or anything web** (or what to ask 😄)
+- 📫 Reach me at **[bakhtyaransari1@gmail.com](mailto:bakhtyaransari1@gmail.com)**
+
+</td>
+<td width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Technologist.png" width="200" alt="Coding" />
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" /> Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,dart,js&perline=6" alt="Languages" /></a><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express,androidstudio,flutter&perline=7" alt="Web and Mobile" /></a><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,linux,bash&perline=7" alt="Databases and Tools" /></a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" /> Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [AI Interview Mocker](https://github.com/banksbond/REPO_NAME) | AI-powered mock interview practice with feedback | Next.js, AI API, DB |
+| [Project 2](https://github.com/banksbond/REPO_NAME) | One-line description | Kotlin, Firebase |
+| [Project 3](https://github.com/banksbond/REPO_NAME) | One-line description | Node.js, MongoDB |
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=banksbond&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=banksbond&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=banksbond&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=banksbond&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/banksbond/banksbond/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/banksbond/banksbond/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/banksbond/banksbond/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" alt="Footer" />
 </p>
